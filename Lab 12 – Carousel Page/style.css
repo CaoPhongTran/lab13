@@ -1,0 +1,29 @@
+.bg-img1 {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://cdn.pixabay.com/photo/2021/08/02/05/17/sunflower-6515860__340.jpg);
+  height: 100%;
+  width: 100%;
+}
+.bg-img2 {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://cdn.pixabay.com/photo/2021/08/02/05/17/sunflower-6515860__340.jpg);
+  height: 100%;
+  width: 100%;
+}
+.bg-img3 {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://cdn.pixabay.com/photo/2021/08/02/05/17/sunflower-6515860__340.jpg);
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper {
+  height: 135vh;
+  overflow: hidden;
+}
